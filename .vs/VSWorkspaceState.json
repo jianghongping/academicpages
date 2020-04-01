@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images"
+    "\\files",
+    "\\_data",
+    "\\_data\\comments",
+    "\\_data\\comments\\layout-comments",
+    "\\_data\\comments\\markup-syntax-highlighting",
+    "\\_data\\comments\\welcome-to-jekyll",
+    "\\_layouts",
+    "\\_pages"
   ],
-  "SelectedNode": "\\images\\image-alignment-300x200.jpg",
+  "SelectedNode": "\\_pages\\404.md",
   "PreviewInSolutionExplorer": false
 }
